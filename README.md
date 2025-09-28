@@ -14,7 +14,7 @@ We leverage industry-leading, enterprise-grade platforms to deploy robust, scala
 
 ---
 
-## 🤝 Collaborate with a Specialist
+## Collaborate with a Specialist
 
 We partner with organizations dedicated to innovation, utilizing automation as a core strategy for competitive advantage.
 
@@ -22,13 +22,14 @@ We partner with organizations dedicated to innovation, utilizing automation as a
 
 | Channel | Detail |
 | :--- | :--- |
-| 📧 **Primary Contact** | `[your-email@example.com]` |
-| 🌐 **Corporate Site** | `[your-website.com]` |
-| 💼 **Professional Profile** | `[your-linkedin-link]` |
+| 📧 **Primary Contact** | `awaisstudent1687@gmail.com` |
+| 🌐 **Corporate Site** | `TrellisAI.com` |
+| 💼 **Professional Profile** | `linkedin.com/in/awais-ali-93115237b` |
 
 ### **Core Platform Expertise**
 ![n8n Logo](https://avatars.githubusercontent.com/u/45487711?s=48&v=4)
 ![Make.com Logo](https://avatars.githubusercontent.com/u/22738428?s=48&v=4)
 ![Zapier Logo](https://avatars.githubusercontent.com/u/7055555?s=48&v=4)
+
 
 **Enterprise-ready. Data-secure. Focused on your strategic growth.**
