@@ -53,36 +53,31 @@ With expertise across **AI automation platforms, voice AI, and advanced AI devel
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/awais-ali-93115237b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AwaisAli181673?t=bskYe_eWa_wk60Qvei4qzg&s=09) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-<!-- 🔥 Added Tools -->
+<p align="center">
+  <!-- Automation -->
+  <img src="https://skillicons.dev/icons?i=n8n" height="50" alt="n8n" />
+  <img src="https://skillicons.dev/icons?i=zapier" height="50" alt="Zapier" />
+  <img src="https://skillicons.dev/icons?i=make" height="50" alt="Make.com" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/ElevenLabs_logo.png" height="50" alt="ElevenLabs" />
+  <img src="https://avatars.githubusercontent.com/u/148462241?s=200&v=4" height="50" alt="VAPI" />
+  <img src="https://avatars.githubusercontent.com/u/39625543?s=200&v=4" height="50" alt="Voiceflow" />
+  <img src="https://avatars.githubusercontent.com/u/150099686?s=200&v=4" height="50" alt="Retell AI" />
+  <img src="https://avatars.githubusercontent.com/u/151685707?s=200&v=4" height="50" alt="SynthesisFlow" />
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="50" alt="LangChain" />
+  <img src="https://raw.githubusercontent.com/langgraph-ai/langgraph/main/docs/static/img/logo.png" height="50" alt="LangGraph" />
 
-![n8n](https://img.shields.io/badge/n8n-%23E31C5F.svg?style=for-the-badge&logo=n8n&logoColor=white) 
-![Make.com](https://img.shields.io/badge/Make.com-%230078D7.svg?style=for-the-badge&logo=make&logoColor=white) 
-![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white) 
-![VAPI](https://img.shields.io/badge/VAPI-%23000000.svg?style=for-the-badge&logo=voipdotms&logoColor=white) 
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-%23FF6F00.svg?style=for-the-badge&logo=elevenlabs&logoColor=white) 
-![Retell AI](https://img.shields.io/badge/Retell%20AI-%2300BFFF.svg?style=for-the-badge&logo=ai&logoColor=white) 
-![Voiceflow](https://img.shields.io/badge/Voiceflow-%23007ACC.svg?style=for-the-badge&logo=voiceflow&logoColor=white) 
-![SynthesisFlow](https://img.shields.io/badge/SynthesisFlow-%23A020F0.svg?style=for-the-badge&logo=ai&logoColor=white) 
-![LangChain](https://img.shields.io/badge/LangChain-%2300A67E.svg?style=for-the-badge&logo=chainlink&logoColor=white) 
-![LangGraph](https://img.shields.io/badge/LangGraph-%23121011.svg?style=for-the-badge&logo=graph&logoColor=white) 
-![Airtable](https://img.shields.io/badge/Airtable-%23FFB300.svg?style=for-the-badge&logo=airtable&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) 
-![HubSpot](https://img.shields.io/badge/HubSpot-%23FF7A59.svg?style=for-the-badge&logo=hubspot&logoColor=white) 
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=for-the-badge&logo=google-sheets&logoColor=white) 
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+  <!-- CRM & Databases -->
+  <img src="https://skillicons.dev/icons?i=airtable" height="50" alt="Airtable" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase" />
+  <img src="https://skillicons.dev/icons?i=hubspot" height="50" alt="HubSpot" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" height="50" alt="Google Sheets" />
+
+  <!-- AI -->
+  <img src="https://skillicons.dev/icons?i=openai" height="50" alt="OpenAI" />
+</p>
+
 
 
 # 📊 GitHub Stats:
