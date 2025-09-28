@@ -1,6 +1,6 @@
-# 🌐 Strategic Enterprise Workflow Automation
+# Trellis AI
 
-## 🚀 Accelerating Growth Through Intelligent Automation
+## Accelerating Growth Through Intelligent Automation
 
 We empower **enterprises, scaling businesses, and agencies** to achieve unprecedented operational efficiency through sophisticated workflow automation. Our expertise lies in transforming fragmented processes into cohesive, high-performing systems that **eliminate repetitive labor, maximize tool interoperability, and drive measurable business acceleration.**
 
@@ -15,8 +15,6 @@ We leverage industry-leading, enterprise-grade platforms to deploy robust, scala
 ---
 
 ## 💡 Our Expertise: Enterprise-Grade Solutions
-
-We go beyond simple integrations, delivering **secure, compliant, and scalable** solutions designed to meet the rigorous demands of large-scale operations.
 
 | Service Focus | Description | Impact |
 | :--- | :--- | :--- |
