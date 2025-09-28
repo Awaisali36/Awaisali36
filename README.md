@@ -28,8 +28,6 @@ We partner with organizations dedicated to innovation, utilizing automation as a
 
 ### **Core Platform Expertise**
 
-![Make Logo](https://www.make.com/assets/images/logos/make-logo-horizontal-color.png)
-
 <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n Logo" width="120"/>
 <img src="https://www.make.com/assets/images/logos/make-logo-horizontal-color.png" alt="Make Logo" width="120"/>
 <img src="https://cdn.zapier.com/zapier/images/logos/zapier-logo.png" alt="Zapier Logo" width="120"/>
