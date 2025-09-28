@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm **Awais Ali**
 
 🚀 Co-founder & CEO of **Trilles AI**, where we're **revolutionizing business automation** through cutting-edge **Artificial Intelligence** solutions.
