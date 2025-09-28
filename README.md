@@ -67,14 +67,11 @@ With expertise across **AI automation platforms, voice AI, and advanced AI devel
 ![SynthesisFlow](https://img.shields.io/badge/SynthesisFlow-%23A020F0.svg?style=for-the-badge&logo=ai&logoColor=white) 
 ![LangChain](https://img.shields.io/badge/LangChain-%2300A67E.svg?style=for-the-badge&logo=chainlink&logoColor=white) 
 ![LangGraph](https://img.shields.io/badge/LangGraph-%23121011.svg?style=for-the-badge&logo=graph&logoColor=white) 
-
-<!-- CRM Systems -->
 ![Airtable](https://img.shields.io/badge/Airtable-%23FFB300.svg?style=for-the-badge&logo=airtable&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) 
 ![HubSpot](https://img.shields.io/badge/HubSpot-%23FF7A59.svg?style=for-the-badge&logo=hubspot&logoColor=white) 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=for-the-badge&logo=google-sheets&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
