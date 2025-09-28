@@ -22,9 +22,9 @@ We partner with organizations dedicated to innovation, utilizing automation as a
 
 | Channel | Detail |
 | :--- | :--- |
-| 📧 **Primary Contact** | `awaisstudent1687@gmail.com` |
-| 🌐 **Corporate Site** | `TrellisAI.com` |
-| 💼 **Professional Profile** | `linkedin.com/in/awais-ali-93115237b` |
+| **Primary Contact** | `awaisstudent1687@gmail.com` |
+| **Corporate Site** | `TrellisAI.com` |
+| **Professional Profile** | `linkedin.com/in/awais-ali-93115237b` |
 
 ### **Core Platform Expertise**
 
