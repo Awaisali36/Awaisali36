@@ -1,18 +1,17 @@
-<!-- ====== HERO ====== -->
 <div align="center">
 
-<h1>🌿 Trellis AI</h1>
+# 🌿 Trellis AI: Accelerating Growth 🚀
 
-<p><em>Accelerating Growth Through Intelligent Automation</em></p>
+<p><em>Intelligent Automation for Enterprises, Scaling Businesses, & Agencies.</em></p>
 
-<!-- Quick badges / links (optional) -->
-<a href="mailto:awaisstudent1687@gmail.com">📧 Email</a> •
-<a href="https://TrellisAI.com" target="_blank">🌐 Website</a> •
-<a href="https://linkedin.com/in/awais-ali-93115237b" target="_blank">💼 LinkedIn</a>
+| Connect | | |
+| :-- | :-- | :-- |
+| 📧 [Email](mailto:awaisstudent1687@gmail.com) | 🌐 [Website](https://TrellisAI.com) | 💼 [LinkedIn](https://linkedin.com/in/awais-ali-93115237b) |
 
-<br/><br/>
+<br/>
 
-<!-- Core logos, uniform height to avoid distortion -->
+## 🛠️ Our Core Tech Stack ⚙️
+
 <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n" height="42" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://www.make.com/assets/images/logos/make-logo-horizontal-color.png" alt="Make.com" height="42" />
@@ -23,65 +22,54 @@
 
 ---
 
-We empower **enterprises, scaling businesses, and agencies** to achieve unprecedented operational efficiency through sophisticated workflow automation.  
-Our expertise lies in transforming fragmented processes into cohesive, high-performing systems that **eliminate repetitive labor, maximize tool interoperability, and drive measurable business acceleration.**
+## What We Solve 🎯
 
-### What we deliver
-- End-to-end workflow orchestration across tools and teams  
-- Robust data movement, transformations, and enrichment  
-- Secure deployments (cloud or on-prem) with observability and SLAs  
-- Rapid prototyping → production hardening with best practices
+We transform fragmented, repetitive processes into cohesive, high-performing systems that **drive measurable business acceleration** and **maximize tool interoperability.**
 
----
-
-## Demo Walkthroughs
-
-> Replace these image sources with your own repo assets (recommended: `/assets/*.gif`).  
-> Tip: keep the same height so they line up nicely.
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>n8n — Complex Data Transform</strong><br/>
-      <img src="/assets/n8n-demo.gif" alt="n8n demo" height="220"/>
-    </td>
-    <td align="center">
-      <strong>Make.com — Cross-Tool Orchestration</strong><br/>
-      <img src="/assets/make-demo.gif" alt="Make.com demo" height="220"/>
-    </td>
-    <td align="center">
-      <strong>Zapier — Quick-Win Automation</strong><br/>
-      <img src="/assets/zapier-demo.gif" alt="Zapier demo" height="220"/>
-    </td>
-  </tr>
-</table>
+### Value Delivered
+- **🔗 End-to-End Orchestration:** Seamless workflows across all your tools and teams.
+- **⚡ Process Elimination:** Eliminate repetitive labor through sophisticated automation.
+- **🔄 Data Mastery:** Robust data movement, transformation, and enrichment pipelines.
+- **🛡️ Secure & Scalable:** Observability, guaranteed SLAs, and secure cloud/on-prem deployments.
 
 ---
 
-## Platforms We Use (and Why)
+## Walkthrough: Automation in Action 🎬
+
+> *Replace these image sources with your own repo assets (recommended: `/assets/*.gif`).*
+
+<div align="center">
+  <img src="/assets/n8n-demo.gif" alt="n8n demo" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/make-demo.gif" alt="Make.com demo" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/zapier-demo.gif" alt="Zapier demo" height="200"/>
+  <br/>
+  <p><em>Complex Data Transforms (n8n) | Cross-Tool Orchestration (Make.com) | Rapid Quick-Win Automation (Zapier)</em></p>
+</div>
+
+---
+
+## 💡 Why Our Platform Choices Matter
 
 | Platform | Core Value Proposition | Strategic Focus |
 | :-- | :-- | :-- |
-| **n8n** | **Open-Source Flexibility & Extensibility** | Custom backend integrations, complex data transformations, highly secure on-prem deployments. |
-| **Make.com (formerly Integromat)** | **Visual, Scalable No-Code Orchestration** | End-to-end business process automation, real-time data sync, cross-functional team integrations. |
-| **Zapier** | **Rapid Deployment & Broad Connectivity** | Quick-win automations, cross-tool notifications, and streamlined departmental workflows. |
+| **n8n** | **Open-Source Flexibility & Extensibility** | Custom backend integrations, highly secure **on-prem** deployments, and complex data logic. |
+| **Make.com** | **Visual, Scalable No-Code Orchestration** | End-to-end business process automation, real-time data sync, and **cross-functional** team integrations. |
+| **Zapier** | **Rapid Deployment & Broad Connectivity** | Quick-win automations, cross-tool notifications, and streamlined **departmental workflows.** |
 
 ---
 
-## Collaborate with a Specialist
+## Partner with a Specialist 🤝
 
-We partner with organizations dedicated to innovation, utilizing automation as a core strategy for competitive advantage.
+We align with organizations dedicated to innovation, using automation as a core strategy for competitive advantage.
 
-### Contact & Inquiries
-
-| Channel | Detail |
+| Get Started | Detail |
 | :-- | :-- |
 | **Primary Contact** | `awaisstudent1687@gmail.com` |
-| **Corporate Site** | `TrellisAI.com` |
 | **Professional Profile** | `linkedin.com/in/awais-ali-93115237b` |
 
----
-
 <div align="center">
+  <br/>
   <sub><em>Enterprise-ready. Data-secure. Focused on your strategic growth.</em></sub>
 </div>
