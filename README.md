@@ -1,75 +1,18 @@
-<div align="center">
+# 💫 About Me:
+About Me<br>I'm Awais Ali , Co-founder and CEO of Trilles AI, where we're revolutionizing business automation through cutting-edge artificial intelligence solutions.<br>What I Do<br>As an AI Automation expert, I specialize in building intelligent systems that transform how businesses operate. My expertise spans across multiple automation platforms and AI technologies, enabling organizations to streamline their workflows and unlock unprecedented efficiency.<br>Core Expertise:<br><br>Automation Platforms: n8n, Make.com (formerly Integromat), Zapier<br>Voice AI Solutions: VAPI, Retell AI, ElevenLabs integrations<br>Customer Engagement: GoHighLevel automation and AI implementations<br>Advanced AI Development: LangChain, LangGraph, RAG (Retrieval-Augmented Generation)<br><br>Professional Journey<br>I currently serve clients worldwide through Upwork, where I deliver comprehensive AI automation services that help businesses scale efficiently. My approach combines technical precision with strategic thinking, ensuring that each automation solution drives measurable business outcomes.<br>At Trilles AI, we're building the next generation of AI-powered business tools, focusing on making advanced automation accessible to companies of all sizes.<br><br>Let's connect and explore how AI automation can transform your business operations.
 
-# 🌿 Trellis AI: Accelerating Growth 🚀
 
-<p><em>Intelligent Automation for Enterprises, Scaling Businesses, & Agencies.</em></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/awais-ali-93115237b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AwaisAli181673?t=bskYe_eWa_wk60Qvei4qzg&s=09) 
 
-| Connect | | |
-| :-- | :-- | :-- |
-| 📧 [Email](mailto:awaisstudent1687@gmail.com) | 🌐 [Website](https://TrellisAI.com) | 💼 [LinkedIn](https://linkedin.com/in/awais-ali-93115237b) |
-
-<br/>
-
-## 🛠️ Our Core Tech Stack ⚙️
-
-<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n" height="42" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://www.make.com/assets/images/logos/make-logo-horizontal-color.png" alt="Make.com" height="42" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.zapier.com/zapier/images/logos/zapier-logo.png" alt="Zapier" height="42" />
-
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Awaisali36&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Awaisali36&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awaisali36&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Awaisali36&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## What We Solve 🎯
-
-We transform fragmented, repetitive processes into cohesive, high-performing systems that **drive measurable business acceleration** and **maximize tool interoperability.**
-
-### Value Delivered
-- **🔗 End-to-End Orchestration:** Seamless workflows across all your tools and teams.
-- **⚡ Process Elimination:** Eliminate repetitive labor through sophisticated automation.
-- **🔄 Data Mastery:** Robust data movement, transformation, and enrichment pipelines.
-- **🛡️ Secure & Scalable:** Observability, guaranteed SLAs, and secure cloud/on-prem deployments.
-
----
-
-## Walkthrough: Automation in Action 🎬
-
-> *Replace these image sources with your own repo assets (recommended: `/assets/*.gif`).*
-
-<div align="center">
-  <img src="/assets/n8n-demo.gif" alt="n8n demo" height="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/assets/make-demo.gif" alt="Make.com demo" height="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/assets/zapier-demo.gif" alt="Zapier demo" height="200"/>
-  <br/>
-  <p><em>Complex Data Transforms (n8n) | Cross-Tool Orchestration (Make.com) | Rapid Quick-Win Automation (Zapier)</em></p>
-</div>
-
----
-
-## 💡 Why Our Platform Choices Matter
-
-| Platform | Core Value Proposition | Strategic Focus |
-| :-- | :-- | :-- |
-| **n8n** | **Open-Source Flexibility & Extensibility** | Custom backend integrations, highly secure **on-prem** deployments, and complex data logic. |
-| **Make.com** | **Visual, Scalable No-Code Orchestration** | End-to-end business process automation, real-time data sync, and **cross-functional** team integrations. |
-| **Zapier** | **Rapid Deployment & Broad Connectivity** | Quick-win automations, cross-tool notifications, and streamlined **departmental workflows.** |
-
----
-
-## Partner with a Specialist 🤝
-
-We align with organizations dedicated to innovation, using automation as a core strategy for competitive advantage.
-
-| Get Started | Detail |
-| :-- | :-- |
-| **Primary Contact** | `awaisstudent1687@gmail.com` |
-| **Professional Profile** | `linkedin.com/in/awais-ali-93115237b` |
-
-<div align="center">
-  <br/>
-  <sub><em>Enterprise-ready. Data-secure. Focused on your strategic growth.</em></sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
