@@ -56,27 +56,27 @@ A quick glance at the tools and technologies I utilize to build robust AI-powere
 
 ### 🤖 AI & Automation Platforms  
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)  
-![n8n](https://img.shields.io/badge/n8n-%23E31C5F.svg?style=for-the-badge&logo=n8n&logoColor=white)  
-![Make.com](https://img.shields.io/badge/Make.com-%230078D7.svg?style=for-the-badge&logo=make&logoColor=white)  
-![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-%2300A67E.svg?style=for-the-badge&logo=chainlink&logoColor=white)  
-![LangGraph](https://img.shields.io/badge/LangGraph-%23121011.svg?style=for-the-badge&logo=graph&logoColor=white)  
+[n8n](https://img.shields.io/badge/n8n-%23E31C5F.svg?style=for-the-badge&logo=n8n&logoColor=white)  
+[Make.com](https://img.shields.io/badge/Make.com-%230078D7.svg?style=for-the-badge&logo=make&logoColor=white)  
+[Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white)  
+[LangChain](https://img.shields.io/badge/LangChain-%2300A67E.svg?style=for-the-badge&logo=chainlink&logoColor=white)  
+[LangGraph](https://img.shields.io/badge/LangGraph-%23121011.svg?style=for-the-badge&logo=graph&logoColor=white)  
 
 ---
 
 ### 💻 Programming & Development  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+[C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+[JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+[Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
 ### ☁️ Cloud & Backend  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+[Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+[Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)  
+[MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ---
 
