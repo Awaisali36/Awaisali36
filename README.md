@@ -87,6 +87,3 @@ Showcasing consistency and commitment to the craft:
 </div>
 
 ---
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=Awaisali36&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
