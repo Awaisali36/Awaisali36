@@ -15,7 +15,7 @@ _Revolutionizing Business Automation with Intelligent AI Solutions_
   <a href="https://trilles.ai" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.upwork.com/" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~013d71f5c2748f477a?mp_source=share" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
   <a href="https://x.com/AwaisAli181673?t=bskYe_eWa_wk60Qvei4qzg&s=09" target="_blank">
