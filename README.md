@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Awais Ali | Co-founder & CEO @ Trilles AI 🚀
+# 👋 Awais Ali |Team Lead at Protect Fortunes(US Based Company) as an Ai automation strategist 🚀
 
 _Revolutionizing Business Automation with Intelligent AI Solutions_
 
