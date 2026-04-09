@@ -6,7 +6,7 @@
 
 # Awais Ali
 
-<img width="580" src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=580&lines=CEO+%26+Co-Founder+%C2%B7+Trilles+AI;Agentic+AI+Consultant;Building+AI+Systems+That+Run+Businesses." alt="Typing SVG" />
+<img width="580" src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=580&lines=CEO+%26+Founder+%C2%B7+Trilles+AI;Agentic+AI+Consultant;Building+AI+Systems+That+Run+Businesses." alt="Typing SVG" />
 
 <br/>
 
